@@ -1,8 +1,7 @@
 # ExpandableListView
-Expandable Listview
+Smooth animation with Expandable Listview
 #My GIF
 
-https://github.com/Raviprakash15/ExpandableListView/blob/master/ezgif.com-gif-maker.mp4
 
+https://user-images.githubusercontent.com/15995605/216985560-0566b16d-0d22-4aae-a180-edce8d4d6c50.mp4
 
-https://media.giphy.com/media/jUaMQlgJcoHyzx6FU9/giphy.gif
