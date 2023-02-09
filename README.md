@@ -1,5 +1,5 @@
 # ExpandableListView
-Smooth animation with Expandable Listview
+Smooth animation with Expandable Recyclerview
 #My GIF
 
 
